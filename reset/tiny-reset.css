@@ -1,0 +1,65 @@
+html,
+body,
+div,
+p,
+ol,
+ul,
+li,
+dl,
+dt,
+dd,
+table,
+th,
+td,
+blockquote,
+figure,
+fieldset,
+legend,
+textarea,
+pre,
+iframe,
+hr,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+ul {
+    list-style: none;
+}
+
+button,
+input,
+select,
+textarea,
+iframe,
+img {
+    outline: none;
+    border: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+main,
+nav,
+section {
+    display: block;
+}
