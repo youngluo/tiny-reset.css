@@ -1,22 +1,22 @@
 {
   "name": "tiny-reset.css",
   "version": "1.0.0",
-  "description": "",
-  "main": "reset/tiny-reset.min.css",
+  "description": "A tiny modern CSS reset",
+  "main": "dist/tiny-reset.min.css",
   "scripts": {
     "test": "",
     "build": "gulp --prod"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/youngluo/css-snippets.git"
+    "url": "git+https://github.com/youngluo/tiny-reset.css.git"
   },
   "author": "Young Luo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/youngluo/css-snippets/issues"
+    "url": "https://github.com/youngluo/tiny-reset.css/issues"
   },
-  "homepage": "https://github.com/youngluo/css-snippets#readme",
+  "homepage": "https://github.com/youngluo/tiny-reset.css#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-eagle": "^2.0.0"
