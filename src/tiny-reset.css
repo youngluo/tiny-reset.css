@@ -30,6 +30,11 @@ h6 {
     box-sizing: border-box;
 }
 
+html,
+body {
+    line-height: 1;
+}
+
 ul {
     list-style: none;
 }

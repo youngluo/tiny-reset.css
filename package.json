@@ -1,6 +1,6 @@
 {
   "name": "tiny-reset.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tiny modern CSS reset",
   "main": "dist/tiny-reset.min.css",
   "scripts": {
@@ -19,6 +19,6 @@
   "homepage": "https://github.com/youngluo/tiny-reset.css#readme",
   "devDependencies": {
     "gulp": "^3.9.1",
-    "gulp-eagle": "^2.0.0"
+    "gulp-eagle": "^2.1.0"
   }
 }
