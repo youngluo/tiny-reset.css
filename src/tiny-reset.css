@@ -25,18 +25,14 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-html,
-body {
-    line-height: 1;
+  margin: 0;
+  padding: 0;
+  line-height: 1;
+  box-sizing: border-box;
 }
 
 ul {
-    list-style: none;
+  list-style: none;
 }
 
 button,
@@ -45,13 +41,13 @@ select,
 textarea,
 iframe,
 img {
-    outline: none;
-    border: none;
+  outline: none;
+  border: none;
 }
 
 table {
-    border-collapse: collapse;
-    border-spacing: 0;
+  border-collapse: collapse;
+  border-spacing: 0;
 }
 
 article,
@@ -66,5 +62,6 @@ menu,
 main,
 nav,
 section {
-    display: block;
+  display: block;
+  box-sizing: border-box;
 }
