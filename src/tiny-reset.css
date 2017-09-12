@@ -1,4 +1,9 @@
 html,
+body {
+  line-height: 1;
+}
+
+html,
 body,
 div,
 p,
@@ -15,6 +20,7 @@ blockquote,
 figure,
 fieldset,
 legend,
+menu,
 textarea,
 pre,
 iframe,
@@ -27,11 +33,12 @@ h5,
 h6 {
   margin: 0;
   padding: 0;
-  line-height: 1;
+  line-height: inherit;
   box-sizing: border-box;
 }
 
-ul {
+ul,
+menu {
   list-style: none;
 }
 
@@ -52,16 +59,15 @@ table {
 
 article,
 aside,
-details,
 figcaption,
 figure,
 footer,
 header,
 hgroup,
-menu,
 main,
 nav,
 section {
   display: block;
+  line-height: inherit;
   box-sizing: border-box;
 }
