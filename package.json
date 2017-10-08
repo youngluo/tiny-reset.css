@@ -1,6 +1,6 @@
 {
   "name": "tiny-reset.css",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A tiny modern CSS reset",
   "main": "dist/tiny-reset.min.css",
   "scripts": {
